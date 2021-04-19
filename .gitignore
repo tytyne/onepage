@@ -1,4 +1,5 @@
 config.yml
+_config.yml
 ### vscode ###
 .vscode/*
 !.vscode/settings.json
